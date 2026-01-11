@@ -129,7 +129,7 @@ export default function Portfolio() {
                 <div className="absolute inset-0 bg-gradient-to-r from-cyan-500 to-blue-500 rounded-full blur-2xl opacity-40 animate-pulse"></div>
                 <div className="relative w-80 h-80 rounded-full overflow-hidden border-4 border-cyan-500/50 shadow-2xl shadow-cyan-500/30">
                   <img
-                    src="src/assets/me.jpg"
+                    src="/me.jpg"
                     alt="Profile"
                     className="w-full h-full object-cover"
                   />
